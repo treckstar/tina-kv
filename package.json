@@ -1,6 +1,6 @@
 {
   "name": "tina-self-hosted-demo",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "TINA_PUBLIC_IS_LOCAL=true tinacms dev --datalayer-port 1437 -c \"next dev\"",
